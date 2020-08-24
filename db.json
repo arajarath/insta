@@ -1,0 +1,14 @@
+{
+    "posts": [{
+        "user": {
+            "profilePhoto": "",
+            "name": "Raja Rathinam"
+        },
+        "postDetails": {
+            "type": "image",
+            "src": "",
+            "views": 234
+        },
+        "isLiked": false
+    }]
+}
